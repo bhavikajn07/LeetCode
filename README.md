@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/bhavikajn07/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/bhavikajn07/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0584-find-customer-referee](https://github.com/bhavikajn07/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/bhavikajn07/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Array
 | Problem Name | Difficulty |
