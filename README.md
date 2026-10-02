@@ -28,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bhavikajn07/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/bhavikajn07/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,8 +37,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bhavikajn07/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/bhavikajn07/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/bhavikajn07/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/bhavikajn07/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/bhavikajn07/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
